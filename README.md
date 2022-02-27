@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, NodeJs, MongoDB, ExpressJS, VueJS**
 
-- 👨‍💻 All of my projects are available at [https://cagatayturkan.com](https://cagatayturkan.com) and [https://github.com/cagatayturkann?tab=repositories](https://github.com/cagatayturkann?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://cagatayturkan.com](https://cagatayturkan.com) and [https://github.com/cagatayturkann](https://github.com/cagatayturkann)
 
 - 📝 I regularly write articles on [https://cagatayturkan.com](https://cagatayturkan.com)
 
