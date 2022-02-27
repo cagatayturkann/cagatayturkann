@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cagatayturkann" alt="cagatayturkann" /></a> </p>
 
-- 🔭 I’m currently working on [Patika.dev Front End Road](https://github.com/cagatayturkann/kodluyoruzilkrepo)
+- 🔭 I’m currently working on [Patika.dev NodeJS Backend Road](https://github.com/cagatayturkann/patika-nodejs)
 
-- 🌱 I’m currently learning **JavaScript, NodeJs, MongoDB, ExpressJS**
+- 🌱 I’m currently learning **JavaScript, NodeJs, MongoDB, ExpressJS, VueJS**
 
-- 👨‍💻 All of my projects are available at [https://cagatayturkan.com](https://cagatayturkan.com)
+- 👨‍💻 All of my projects are available at [https://cagatayturkan.com](https://cagatayturkan.com) and [https://github.com/cagatayturkann?tab=repositories](https://github.com/cagatayturkann?tab=repositories)
 
 - 📝 I regularly write articles on [https://cagatayturkan.com](https://cagatayturkan.com)
 
